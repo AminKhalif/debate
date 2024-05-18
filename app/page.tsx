@@ -204,7 +204,7 @@ export default function Home() {
 )
 }
 
-function MicIcon(props) {
+function MicIcon(props: React.SVGProps<SVGSVGElement>) {
 return (
   <svg
     {...props}

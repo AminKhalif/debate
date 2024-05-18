@@ -6,6 +6,9 @@ import { Rubik } from 'next/font/google'
 import './styles.css'
 import { ReactNode } from 'react';
 
+interface LayoutProps {
+  children: ReactNode;
+}
 
 const chivo = Chivo({
   subsets: ['latin'],
