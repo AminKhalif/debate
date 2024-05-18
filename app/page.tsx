@@ -124,10 +124,10 @@ export default function Home() {
                 <div className="mt-4 flex items-center space-x-4">
                   <Avatar>
                     <AvatarImage src="/placeholder-avatar.png" />
-                    <AvatarFallback>JD</AvatarFallback>
+                    <AvatarFallback>NK</AvatarFallback>
                   </Avatar>
                   <div>
-                    <div className="text-sm font-medium">John Doe</div>
+                    <div className="text-sm font-medium">Nadiya Khalif</div>
                     <div className="text-sm text-gray-500 dark:text-gray-400">Debating Club President</div>
                   </div>
                 </div>
